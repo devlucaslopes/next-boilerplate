@@ -1,4 +1,4 @@
-const fo = 'bar'
+const foo = 'bar'
 
 export default function Home() {
   return <h1>boilerplate</h1>
